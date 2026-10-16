@@ -49,7 +49,8 @@ RGuide is a multi-platform indoor navigation system that gives real-time, step-b
 4) Guide the user – 3D map, text steps, and voice prompts; auto-reroute if the user deviates or a path is blocked.
 5) Keep data fresh – Admin dashboard updates the graph; changes are broadcast via WebSockets and cached in Redis.
    
-<img width="1890" height="1185" alt="image" src="https://github.com/user-attachments/assets/421da54e-1c99-4987-ab47-4aec8956a8af" />
+<img width="1024" height="642" alt="image" src="https://github.com/user-attachments/assets/c50a9e98-32fb-4eb2-a2c8-1247b05d6dfc" />
+
 
 
 
